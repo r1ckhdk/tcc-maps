@@ -161,3 +161,4 @@ cython_debug/
 
 data/LAYER_DISTRITO/
 data/layerdistrito.zip
+data/distritos-sp.geojson
